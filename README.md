@@ -17,3 +17,15 @@ Google Hacking es el uso de comandos de búsqueda avanzados en Google u otros mo
 Ciberseguridad site:wikipedia.org
 
 ```
+
+**intitle:**
+- Limita los resultados de búsqueda a aquellos que contienen una palabra o frase específica en el título de la página.
+- Este comando se utiliza para encontrar páginas web que contengan información específica en su **título**, como "contraseñas", "base de datos" o "confidencial".
+#Ejemplo:
+
+```js
+
+intitle:ciberseguridad
+
+```
+
