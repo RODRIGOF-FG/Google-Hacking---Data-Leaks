@@ -63,6 +63,7 @@ filetype: pdf
 
 - Limita los resultados de búsqueda para mostrar solo páginas que contienen una palabra o frase específica en su contenido.
 - Este comando ayuda a  buscar páginas web que contengan información específica dentro de su texto, como números de teléfono, direcciones de correo electrónico o cualquier otra cadena de texto relevante.
+
 **Ejemplo:**
 
 ```js
@@ -76,6 +77,7 @@ intext: tutorial Python
 
 - Limita los resultados de búsqueda para mostrar solo páginas que contienen una palabra o frase específica en su URL.
 - Se utiliza este comando para encontrar páginas web que tienen una palabra o frase específica en su dirección URL, lo que puede ser útil para buscar páginas con un tema o contenido particular.
+
 **Ejemplo:**
 
 ```js
@@ -88,6 +90,7 @@ inurl:blog viajes Europa
 
 **Suma(+):**
 - El símbolo más (+) entre dos palabras o mas , indica a Google que incluya los términos en los resultados de búsqueda.
+
 **Ejemplo:**
   
 ```js
