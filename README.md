@@ -116,7 +116,7 @@ inurl:blog viajes Europa
 
 <br>
 
-[Volver inicio :arrow_up:](#TABLA-DE-CONTENIDO)
+[Volver inicio :arrow_up:](#Introducción)
 
 <br>
 
@@ -144,6 +144,14 @@ inurl:blog viajes Europa
 seguridad informatica -normativas
 
 ```
+
+
+<br>
+
+[Volver inicio :arrow_up:](#Introducción)
+
+<br>
+
 
 ### Operadores lógicos:
 
@@ -181,6 +189,14 @@ Hacker ético NOT ciberdelincuencia
 
 -  Mostrará resultados que contengan la palabra "Hacker ético" pero excluyendo aquellos que contengan la palabra "ciberdelincuencia".
 
+
+
+
+<br>
+
+[Volver inicio :arrow_up:](#Introducción)
+
+<br>
 
 
 ### Comandos para buscar informacion sencible:
@@ -225,6 +241,14 @@ filetype:txt password
 ```
 
 - Esta búsqueda mostrará archivos de texto que contienen la palabra "password". Los archivos de texto a menudo se utilizan para almacenar información como contraseñas de forma no cifrada.
+
+
+
+<br>
+
+[Volver inicio :arrow_up:](#Introducción)
+
+<br>
 
 
 ### Buscar correos y contraseñas en Pastebin
