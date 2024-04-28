@@ -6,13 +6,13 @@
 <br>
 
 ## Tabla de Contenido
-- [Introducción](#Introducción)
-- [Google Hacking](#Google-Hacking)
-- [Comandos Básicos](#Comandos-Básicos)
-- [Operadores](#Operadores)
-- [Operadores Lógicos](#Operadores-Lógicos)
-- [Búsqueda de Información Sensible](#Búsqueda-de-Información-Sensible)
-- [Buscar Correos y Contraseñas en Pastebin](#Buscar-Correos-y-Contraseñas-en-Pastebin)
+- [🚀 Introducción](#introducción)
+- [🔍 Google Hacking](#google-hacking)
+- [⚙️ Comandos Básicos](#comandos-básicos)
+- [🔑 Operadores](#operadores)
+- [🔗 Operadores Lógicos](#operadores-lógicos)
+- [🔍 Búsqueda de Información Sensible](#búsqueda-de-información-sensible)
+- [🔍 Buscar Correos y Contraseñas en Pastebin](#buscar-correos-y-contraseñas-en-pastebin)
 
 ---
 
