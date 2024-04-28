@@ -46,6 +46,20 @@ filetype: pdf
 ```
 
 
+**intext:**
+
+- Limita los resultados de búsqueda para mostrar solo páginas que contienen una palabra o frase específica en su contenido.
+- Este comando ayuda a  buscar páginas web que contengan información específica dentro de su texto, como números de teléfono, direcciones de correo electrónico o cualquier otra cadena de texto relevante.
+**Ejemplo:**
+
+```js
+
+intext: tutorial Python
+
+```
+
+
+
 
 
 
