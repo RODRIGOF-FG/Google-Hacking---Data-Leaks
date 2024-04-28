@@ -32,3 +32,28 @@ intitle:ciberseguridad
 
 ```
 
+**filetype:**
+
+- Filtra los resultados para mostrar solo archivos de un tipo específico.
+- Se utiliza cuando se necesita buscar archivos de un formato particular, como documentos de Word, hojas de cálculo de Excel o archivos PDF, este comando restringe los resultados a ese tipo de archivo.
+
+**Ejemplo:**
+
+```js
+
+filetype:pdf
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
