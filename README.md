@@ -9,7 +9,7 @@
 | TABLA DE CONTENIDO     |
 | ------------ |
 | [Introducción](#Introducción) |
-| [Google Hacking:](#Google-Hacking:) |
+| [Google Hacking](#Google-Hacking) |
 | [Paso 2](#Paso-2) |
 | [Paso 3](#Paso-3) |
 | [Paso 4](#Paso-4) |
