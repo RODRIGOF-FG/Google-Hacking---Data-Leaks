@@ -12,7 +12,7 @@
 | [Google Hacking:](#Google-Hacking) |
 | [Comandos Basicos](#Comandos-Basicos) |
 | [Operadores](#Operadores) |
-| [Operadores lógicos (AND, OR, NOT)](#Operadores lógicos (AND, OR, NOT))|
+| [Operadores lógicos](#Operadores-lógicos) |
 
 <br>
 
@@ -137,9 +137,9 @@ seguridad informatica -normativas
 
 ```
 
-### Operadores lógicos (AND, OR, NOT):
+### Operadores lógicos:
 
-Estos operadores lógicos se utilizan para combinar términos de búsqueda.
+Estos operadores lógicos (AND, OR, NOT) se utilizan para combinar términos de búsqueda y refinar los resultados. Por ejemplo, el operador AND muestra resultados que contienen ambas palabras, OR muestra resultados que contienen al menos una de las palabras, y NOT excluye términos específicos de los resultados de búsqueda.
 
 **AND**
 
