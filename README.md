@@ -197,7 +197,7 @@ filetype:txt password
 
 **Buscar correos**
 
-**Ejemplo**
+**Ejemplo:**
 
   ```js
 
@@ -205,3 +205,19 @@ filetype:txt password
 
 
 ```
+
+- Esta busqueda se utiliza para buscar en el sitio web Pastebin cualquier contenido que contenga la cadena @gmail.com
+
+
+**Buscar correos y contraseñas**
+
+**Ejemplo:**
+
+  ```js
+
+"@gmail.com" + "password:" site:pastebin.com 
+
+
+```
+
+- Esta busqueda específica en Pastebin que intenta encontrar texto que contenga direcciones de correo electrónico de Gmail (@gmail.com) junto con la palabra "password:".
