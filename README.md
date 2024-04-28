@@ -9,6 +9,15 @@ Google Hacking es el uso de comandos de búsqueda avanzados en Google u otros mo
 ### Busqueda exacta:
 Se utilizan las comillas ("") alrededor de una frase o una secuencia de palabras en una búsqueda, esto ayuda a realizar una busqueda exacta y con estas comillas se restringe los resultados a aquellos que contienen la frase exacta dentro de las comillas
 
+
+**Ejemplo:**
+
+```js
+
+"Ciberseguridad"
+
+```
+
 ### Comandos Basicos
 
 **Site:**
