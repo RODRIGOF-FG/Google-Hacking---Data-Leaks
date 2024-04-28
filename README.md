@@ -148,6 +148,49 @@ Hacker ético NOT ciberdelincuencia
 
 
 
+### Comandos para buscar informacion sencible:
+
+**Busqueda de direcciones de correo electronico**
+
+**Ejemplo:**
+
+  ```js
+
+"@dominio.com"
+
+
+```
+
+- Esta búsqueda mostrará resultados que contienen direcciones de correo electrónico que terminan con "@dominio.com". Puedes reemplazar "dominio.com" con el dominio específico que estés investigando.
+
+
+**Búsqueda de archivos que contienen la palabra "password"**
+
+**Ejemplo:**
+
+  ```js
+
+intitle:"index of" password
+
+
+```
+
+- Esta búsqueda mostrará páginas web que contienen archivos que están indexados con el término "password" en su título. 
+
+
+**Búsqueda de archivos de texto que contienen contraseñas:**
+
+**Ejemplo:**
+
+  ```js
+
+filetype:txt password
+
+
+```
+
+- Esta búsqueda mostrará archivos de texto que contienen la palabra "password". Los archivos de texto a menudo se utilizan para almacenar información como contraseñas de forma no cifrada.
+
 
 
 
