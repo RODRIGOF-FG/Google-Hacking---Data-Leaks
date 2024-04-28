@@ -3,8 +3,14 @@
 ### Introduccion
 
 
-Google Hacking es el uso de comandos de búsqueda avanzados en Google u otros motores de búsqueda para encontrar información específica que normalmente no sería accesible mediante búsquedas convencionales.
+Este proyecto se realiza con fines educativos y de investigación para concienciar a las personas sobre los riesgos asociados con la exposición de información sensible en línea y la importancia de investigar si tenemos alguna información expuesta en diversos sitios web.
 
+Es fundamental comprender que esta técnica debe ser utilizada de manera ética y responsable, con el objetivo de mejorar la seguridad de la información y proteger la privacidad de los usuarios en línea. Al utilizar Google Hacking para identificar posibles fugas de datos, podemos tomar medidas proactivas para mitigar cualquier riesgo potencial y salvaguardar la información confidencial. Ademas exploraremos diversos comandos de búsqueda relacionadas con Google Hacking para detectar posibles filtraciones de datos, tales como direcciones de correo electrónico, contraseñas y otra información sensible.
+
+
+### Google Hacking:
+
+Es una técnica que implica el uso de comandos de búsqueda avanzados en Google u otros motores de búsqueda con el propósito de encontrar información específica que normalmente no sería accesible mediante búsquedas convencionales.
 
 ### Busqueda exacta:
 Se utilizan las comillas ("") alrededor de una frase o una secuencia de palabras en una búsqueda, esto ayuda a realizar una busqueda exacta y con estas comillas se restringe los resultados a aquellos que contienen la frase exacta dentro de las comillas
