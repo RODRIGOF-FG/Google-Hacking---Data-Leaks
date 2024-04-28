@@ -33,7 +33,7 @@ Es fundamental comprender que esta técnica debe ser utilizada de manera ética 
 
 Es una técnica que implica el uso de comandos de búsqueda avanzados en Google u otros motores de búsqueda con el propósito de encontrar información específica que normalmente no sería accesible mediante búsquedas convencionales.
 
-### Busqueda exacta:
+**Busqueda exacta:**
 Se utilizan las comillas ("") alrededor de una frase o una secuencia de palabras en una búsqueda, esto ayuda a realizar una busqueda exacta y con estas comillas se restringe los resultados a aquellos que contienen la frase exacta dentro de las comillas
 
 
@@ -280,3 +280,10 @@ filetype:txt password
 ```
 
 - Esta busqueda específica en Pastebin que intenta encontrar texto que contenga direcciones de correo electrónico de Gmail (@gmail.com) junto con la palabra "password:".
+
+
+<br>
+
+[Volver inicio :arrow_up:](#Introducción)
+
+<br>
