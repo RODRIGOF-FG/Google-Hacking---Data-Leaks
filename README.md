@@ -98,6 +98,17 @@ inurl:blog viajes Europa
 "seguridad informatica + normativas"
 
 ```
+
+**Resta (-):**
+- Al usar el signo menos (-) delante de una palabra, estás indicando a Google que excluya esa palabra de los resultados de búsqueda.
+
+**Ejemplo:**
+  
+```js
+
+seguridad informatica -normativas
+
+```
   
 
 
