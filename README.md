@@ -12,7 +12,7 @@ Google Hacking es el uso de comandos de búsqueda avanzados en Google u otros mo
 - Se utiliza cuando se necesita buscar información en un sitio en particular, ya que al usar el comando, se indexarán solo búsquedas en esa página web o dominio.
 #Ejemplo:
 
-```cmd
+```js
 
 Ciberseguridad site:wikipedia.org
 
