@@ -2,7 +2,6 @@
 
 
 
-<br>
 
 <br>
 
@@ -19,8 +18,6 @@
 
 <br>
 
-
-<br>
 
 
 
@@ -115,6 +112,14 @@ intext: tutorial Python
 inurl:blog viajes Europa
 
 ```
+
+
+<br>
+
+[Volver inicio :arrow_up:](#Google Hacking - Data Leaks)
+
+<br>
+
 
 ### Operadores
 
