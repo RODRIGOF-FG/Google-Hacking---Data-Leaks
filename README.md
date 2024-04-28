@@ -13,6 +13,8 @@
 | [Comandos Basicos](#Comandos-Basicos) |
 | [Operadores](#Operadores) |
 | [Operadores lógicos](#Operadores-lógicos) |
+| [Comandos para buscar informacion sencible:](#Comandos-para-buscar-informacion-sencible) |
+| [Buscar en pastebin.com correos y contraseñas](#Buscar-en-pastebin.com-correos-y-contraseñas) |
 
 <br>
 
