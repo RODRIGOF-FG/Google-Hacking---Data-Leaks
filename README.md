@@ -14,7 +14,8 @@
 | [Operadores](#Operadores) |
 | [Operadores lógicos](#Operadores-lógicos) |
 | [Comandos para buscar informacion sencible:](#Comandos-para-buscar-informacion-sencible) |
-| [Buscar en pastebin.com correos y contraseñas](#Buscar-en-pastebin.com-correos-y-contraseñas) |
+| [Buscar correos y contraseñas en Pastebin](#buscar-correos-y-contraseñas-en-pastebin) |
+
 
 <br>
 
@@ -221,7 +222,7 @@ filetype:txt password
 - Esta búsqueda mostrará archivos de texto que contienen la palabra "password". Los archivos de texto a menudo se utilizan para almacenar información como contraseñas de forma no cifrada.
 
 
-### Buscar en pastebin.com correos y contraseñas 
+### Buscar correos y contraseñas en Pastebin
 
 
 **Buscar correos**
