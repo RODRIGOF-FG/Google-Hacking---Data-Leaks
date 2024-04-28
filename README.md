@@ -192,8 +192,16 @@ filetype:txt password
 - Esta búsqueda mostrará archivos de texto que contienen la palabra "password". Los archivos de texto a menudo se utilizan para almacenar información como contraseñas de forma no cifrada.
 
 
+### Buscar en pastebin.com correos y contraseñas 
 
 
+**Buscar correos**
+
+**Ejemplo**
+
+  ```js
+
+"@gmail.com" site:pastebin.com 
 
 
-
+```
