@@ -12,7 +12,7 @@
 | [Google Hacking:](#Google-Hacking) |
 | [Comandos Basicos](#Comandos-Basicos) |
 | [Operadores](#Operadores) |
-| [Operadores lógicos (AND, OR, NOT)](#Operadores-lógicos-(AND,-OR,-NOT)) |
+| [Operadores lógicos (AND, OR, NOT)](#Operadores-lógicos(AND,OR,NOT)) |
 
 <br>
 
