@@ -5,15 +5,16 @@
 
 <br>
 
-| TABLA DE CONTENIDO     |
-| ------------ |
-| [Introducción](#Introducción) |
-| [Google Hacking:](#Google-Hacking) |
-| [Comandos Basicos](#Comandos-Basicos) |
-| [Operadores](#Operadores) |
-| [Operadores lógicos](#Operadores-lógicos) |
-| [Comandos para buscar informacion sencible:](#Comandos-para-buscar-informacion-sencible) |
-| [Buscar correos y contraseñas en Pastebin](#buscar-correos-y-contraseñas-en-pastebin) |
+## Tabla de Contenido
+- [Introducción](#Introducción)
+- [Google Hacking](#Google-Hacking)
+- [Comandos Básicos](#Comandos-Básicos)
+- [Operadores](#Operadores)
+- [Operadores Lógicos](#Operadores-Lógicos)
+- [Búsqueda de Información Sensible](#Búsqueda-de-Información-Sensible)
+- [Buscar Correos y Contraseñas en Pastebin](#Buscar-Correos-y-Contraseñas-en-Pastebin)
+
+---
 
 
 <br>
