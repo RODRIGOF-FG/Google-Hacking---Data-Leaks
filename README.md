@@ -84,6 +84,18 @@ inurl:blog viajes Europa
 
 ```
 
+### Operadores logicos
+
+**Suma(+):**
+- El símbolo más (+) entre dos palabras o mas , indica a Google que incluya los términos en los resultados de búsqueda.
+**Ejemplo:**
+  
+```js
+
+"seguridad informatica + normativas"
+
+```
+  
 
 
 
