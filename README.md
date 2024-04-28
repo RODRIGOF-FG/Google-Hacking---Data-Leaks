@@ -86,7 +86,7 @@ inurl:blog viajes Europa
 
 ```
 
-### Operadores logicos
+### Operadores
 
 **Suma(+):**
 - El símbolo más (+) entre dos palabras o mas , indica a Google que incluya los términos en los resultados de búsqueda.
@@ -109,9 +109,42 @@ inurl:blog viajes Europa
 seguridad informatica -normativas
 
 ```
-  
+
+### Operadores lógicos (AND, OR, NOT):
+
+Estos operadores lógicos se utilizan para combinar términos de búsqueda.
+
+**AND**
+
+  ```js
+
+nmap AND script
+
+```
+
+- Se mostrará resultados que contengan ambas palabras
+
+**OR**
 
 
+  ```js
+
+vulnerabilidades OR vulnerability
+
+```
+
+- Mostrará resultados que contengan al menos una de las palabras
+
+**NOT**
+
+
+  ```js
+
+Hacker ético NOT ciberdelincuencia
+
+```
+
+-  Mostrará resultados que contengan la palabra "Hacker ético" pero excluyendo aquellos que contengan la palabra "ciberdelincuencia".
 
 
 
