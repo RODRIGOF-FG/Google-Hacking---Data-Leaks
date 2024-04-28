@@ -9,7 +9,7 @@
 | TABLA DE CONTENIDO     |
 | ------------ |
 | [Introducción](#Introducción) |
-| [Google Hacking](#Google-Hacking) |
+| [Google Hacking:](#Google-Hacking) |
 | [Paso 2](#Paso-2) |
 | [Paso 3](#Paso-3) |
 | [Paso 4](#Paso-4) |
@@ -21,7 +21,7 @@
 
 
 
-### Introduccion
+### Introducción
 
 
 Este proyecto se realiza con fines educativos y de investigación para concienciar a las personas sobre los riesgos asociados con la exposición de información sensible en línea y la importancia de investigar si tenemos alguna información expuesta en diversos sitios web.
