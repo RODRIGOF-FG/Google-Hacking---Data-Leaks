@@ -41,7 +41,7 @@ intitle:ciberseguridad
 
 ```js
 
-filetype:pdf
+filetype: pdf
 
 ```
 
