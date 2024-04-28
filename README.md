@@ -72,6 +72,17 @@ intext: tutorial Python
 ```
 
 
+**inurl:**
+
+- Limita los resultados de búsqueda para mostrar solo páginas que contienen una palabra o frase específica en su URL.
+- Se utiliza este comando para encontrar páginas web que tienen una palabra o frase específica en su dirección URL, lo que puede ser útil para buscar páginas con un tema o contenido particular.
+**Ejemplo:**
+
+```js
+
+inurl:blog viajes Europa
+
+```
 
 
 
